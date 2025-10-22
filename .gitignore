@@ -1,2 +1,4 @@
 data/**/*.csv
+data/grid_results
+catboost_info
 *.pyc
