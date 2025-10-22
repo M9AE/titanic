@@ -31,8 +31,8 @@ Sources des Ponts :
 ```kaggle competitions submit -c titanic -f submission.csv -m "Message"```
 
 ## Résultats
-Actuellement deux soumissions.
-La meilleure se classe 14037ème pour une exactitude (accuracy) de 0.67464
+Actuellement cinq soumissions.
+La meilleure se classe 2869ème pour une exactitude (accuracy) de 0.78229
 
 ![Graphique de scores](./images/score_evolution.png)
 
