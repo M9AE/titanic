@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-![Logo du projet](./images/image.png)
+![Logo du projet](./images/image_titanic.png)
 
 Cette [compétition Kaggle](https://www.kaggle.com/competitions/titanic/overview) est connue pour être une bonne introduction aux compétitions sur la plateforme. 
 
@@ -33,5 +33,7 @@ Sources des Ponts :
 ## Résultats
 Actuellement deux soumissions.
 La meilleure se classe 14037ème pour une exactitude (accuracy) de 0.67464
+
+![Graphique de scores](./images/score_evolution.png)
 
 ## To Do
